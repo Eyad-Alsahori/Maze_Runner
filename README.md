@@ -14,6 +14,10 @@ backstory and sets the stage for the upcoming quest. Also, if the player was abl
 through all the levels and save the princess, he will be taken to the final “You Win!”
 scene.
 
+Demo:
+![image](https://github.com/Eyad-Alsahori/Maze_Runner/assets/120857307/6cd3d601-d4b6-4978-a6aa-1e3e87676c7f)
+
+
 Further immersing the players in the game is the exciting background music that 
 accompanies their journey and enhances the overall experience.
 Controls
@@ -26,13 +30,7 @@ Right Arrow Key: Shift the character to the right.
 These controls empower players to fluidly maneuver their character through the game 
 world.
 
-
-Demo:
-
-![image](https://github.com/Eyad-Alsahori/Maze_Runner/assets/120857307/6cd3d601-d4b6-4978-a6aa-1e3e87676c7f)
-
-
-Worklog 
+Worklog :-
 
 **Kateryna Khomchyk:** Established the foundation of the project by designing the initial 
 framework and creating the structure of the maze. Adapted the maze design to harmonize 
